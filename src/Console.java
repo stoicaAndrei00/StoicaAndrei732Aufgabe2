@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import model.Charaktere;
 
 public class Console {
     private Controller controller;
